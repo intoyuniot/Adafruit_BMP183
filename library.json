@@ -1,0 +1,17 @@
+{
+    "name": "Adafruit_BMP183",
+    "version": "1.0.0",
+    "keywords": "BMP183",
+    "description": "BMP183(博世气压传感器)驱动库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/Adafruit_BMP183.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+

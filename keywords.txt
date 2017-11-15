@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ Adafruit_BMP183   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+getTemperature  KEYWORD2
+getPressure  KEYWORD2
+getAltitude  KEYWORD2
+readRawTemperature  KEYWORD2
+readRawPressure  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+BMP183_DEBUG  LITERAL1
+BMP183_MODE_ULTRALOWPOWER  LITERAL1
+BMP183_MODE_STANDARD  LITERAL1
+BMP183_MODE_HIGHRES  LITERAL1
+BMP183_MODE_ULTRAHIGHRES  LITERAL1
